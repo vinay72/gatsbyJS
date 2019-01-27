@@ -1,3 +1,5 @@
 import React from "react"
 
-export default () => <div>Hello gatsbyJS!</div>
+export default () => (
+<div style = {{ color: `purple`, fontSize: `72px` }} > Hello gatsbyJS!</div>
+)

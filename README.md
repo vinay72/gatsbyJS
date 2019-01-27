@@ -2,7 +2,7 @@
 Gatsby is a blazing fast modern site generator for React.  https://www.gatsbyjs.org/
 Get Started
 
- <h1>There are four main ways to get started with Gatsby: 
+ <h1>There are four main ways to get started with Gatsby: </h1>
 <p>
     Tutorial: The tutorial is written to be as accessible as possible to people without much web development experience.
     Quick start: The quick start is intended for intermediate to advanced developers who prefer to dig straight in.

@@ -1,5 +1,8 @@
 import React from "react"
 
 export default () => (
-<div style = {{ color: `purple`, fontSize: `72px` }} > Hello gatsbyJS!</div>
-)
+<div style={{ color: `purple` }}>    
+  <h1>Hello Gatsby!</h1>   
+   <p>What a world.</p>  
+   </div>
+)  

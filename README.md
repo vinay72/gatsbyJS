@@ -18,5 +18,5 @@ Get Started
         Advanced Tutorials: Learn about topics that are too large for a doc and warrant a tutorial. <br>
         Contributing: Find guides on the Gatsby community, code of conduct, and how to get started contributing to Gatsby. <br>
 </p>
-To know more about gatsbyJS, you can follow this link :- https://www.gatsbyjs.org/docs/
+To know more about gatsbyJS, you can follow the Official Documentation on this link :- https://www.gatsbyjs.org/docs/
 

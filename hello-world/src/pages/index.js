@@ -8,7 +8,7 @@ export default () => (
    <p>What a world.</p>  
    <h1>Hi! I'm building a demo Gatsby site as part of a tutorial!</h1>
     <p>
-      What do I like to do? Lots of course but definitely enjoy building
+      What I like to do? Lots of course but definitely enjoy building
       websites.
     </p>
    </div>
